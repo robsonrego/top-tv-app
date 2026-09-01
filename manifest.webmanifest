@@ -6,5 +6,17 @@
   "background_color": "#ffffff",
   "theme_color": "#111827",
   "description": "Aplicativo de atendimento ao cliente Top TV",
-  "lang": "pt-BR"
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
