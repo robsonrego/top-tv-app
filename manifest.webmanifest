@@ -1,0 +1,10 @@
+{
+  "name": "Top TV - Atendimento",
+  "short_name": "Top TV",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#111827",
+  "description": "Aplicativo de atendimento ao cliente Top TV",
+  "lang": "pt-BR"
+}
